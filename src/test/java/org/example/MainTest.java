@@ -13,4 +13,5 @@ public class MainTest {
     @Test
     public void testSumIncorrect() {
         assertEquals(6, Main.sum(2, 3));
+    }
 }
